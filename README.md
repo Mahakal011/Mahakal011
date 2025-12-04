@@ -18,16 +18,18 @@ I am a **Software Developer**, I am expanding my knowledge in both back-end and 
 
 <br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; 
 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+
+***Skills***
 ###### Languages & Syntax:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
-<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -81,15 +83,6 @@ I am a **Software Developer**, I am expanding my knowledge in both back-end and 
 </table>
 </p>
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahakal011/Mahakal011/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahakal011/Mahakal011/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mahakal011/Mahakal011/output/pacman-contribution-graph.svg">
-</picture>
-
-<img src="https://raw.githubusercontent.com/Mahakal011/Mahakal011/output/snake.svg" alt="Snake animation" />
-
 
 <!-- Visitor Counter -->
 <br>
